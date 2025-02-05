@@ -1,6 +1,6 @@
 module github.com/getflywheel/secretstring
 
-go 1.19
+go 1.23
 
 require cloud.google.com/go/secretmanager v1.10.0
 
@@ -26,5 +26,5 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	google.golang.org/grpc v1.56.3 // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/protobuf v1.36.4 // indirect
 )
