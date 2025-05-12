@@ -1,4 +1,4 @@
 * @getflywheel/platform
-* @getflywheel/hosting-operations
+* @getflywheel/sre-production
 
-#jira:PE
+#jira:SREPROD
